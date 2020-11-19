@@ -1,0 +1,28 @@
+
+##########
+
+route : P128 et P452
+addr : 0011*
+nextHop : G0 et G1
+
+##########
+
+route : P1001
+addr : *
+nextHop : G2
+
+##########
+
+route : P602
+addr : 1000*
+nextHop : G1
+
+##########
+
+route : P592
+addr : 101101*
+nextHop : G2
+
+##########
+
+Total of Node created is : 7747
